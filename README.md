@@ -2,7 +2,7 @@
 
 ## COMMANDS 
 
-```javascript
+```
   
   $ apt update && apt upgrade 
   
@@ -19,3 +19,5 @@
   $ ./setup.sh 
 
 '''
+
+![N-TRACE](https://i.ibb.co/dgnbXfZ/20210228-140829.png)
