@@ -10,7 +10,7 @@
   
   $ pkg install python && pkg install python2 -y
   
-  $ git clone https://github.com/Nabil-Official /N-TRACE
+  $ git clone https://github.com/Nabil-Official/N-TRACE
   
   $ cd N-TRACE 
   
